@@ -8,5 +8,24 @@
     "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.18.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "book-club-sequelize",
+  "description": "example full stack project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amimbs/book-club-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amimbs/book-club-sequelize/issues"
+  },
+  "homepage": "https://github.com/amimbs/book-club-sequelize#readme"
 }
